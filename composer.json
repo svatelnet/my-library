@@ -1,0 +1,16 @@
+{
+    "name": "svatelnet/my-library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Svatelnet\\MyLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sveta",
+            "email": "svatelnet@gmail.com"
+        }
+    ],
+    "require": {}
+}
