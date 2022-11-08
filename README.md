@@ -7,7 +7,7 @@
 ## Установка
 
 ```bash
-$ composer require sveta/my-library
+$ composer require svatelnet/my-library
 ```
 
 ## Использование
