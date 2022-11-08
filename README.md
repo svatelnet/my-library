@@ -13,5 +13,7 @@ $ composer require sveta/my-library
 ## Использование
 
 ```php
-
+<?php
+$newWord = new ReverseService();
+echo $newWord->reverse('string');
 ```
